@@ -37,11 +37,11 @@ find_length <- function(word) {
     print("Please enter a valid word!")
 }
 
-#' Find the length of the word
+#' Find the corrections of a mispelled word
 #'
 #' @param word
 #'
-#' @return the length of the word
+#' @return the corrections of the word
 #' @export
 #'
 #' @examples
