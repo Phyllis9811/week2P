@@ -3,7 +3,7 @@ Type: Package
 Title: Check Words
 Version: 0.1.0
 Author: Phyllis Li phyllisli19981112@gmail.com
-Description: Check whether the imput word is an actual word.
+Description: Check whether the input word is an actual word.
 License: MIT
 Encoding: UTF-8
 LazyData: true
